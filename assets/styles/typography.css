@@ -2,6 +2,7 @@
 	text-transform: uppercase;
 	font-size: 45px;
 	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 20px;
 }
 
 .subtitle {
@@ -9,11 +10,13 @@
 	text-transform: uppercase;
 	color: var(--c-black);
 	opacity: 0.5;
+	letter-spacing: 0.2em;
 }
 
 .p {
 	color: var(--c-black);
 	opacity: 0.5;
+	margin-bottom: 30px;
 }
 
 .project__p {
